@@ -1,3 +1,0 @@
-this is home page
-i work with php and javascript
-i am a web devloper
